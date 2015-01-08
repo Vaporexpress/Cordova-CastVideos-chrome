@@ -31,7 +31,7 @@ Once modified we can install the cordova chromecast plugin ...
 
 $ cordova plugin add https://github.com/GetVideostream/cordova-chromecast.git
 
-5) Now download this example and put the files under [YourProject]\www
+5) Now download this example and put the files under "[YourProject]\www" folder after cleaning the actual content.
 
 6) And finally, build or run the project:
 
