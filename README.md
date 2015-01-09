@@ -23,7 +23,8 @@ Sample [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-c
 
 `$ cordova platform add android`
 
-```Note: 
+```
+Note: 
 By default, Android platform is created with "target-19". 
 Now, we need to modify under /platforms/android folder the "project.properties" file to target-21 
 and "AndroidManifest.xml" file to android:targetSdkVersion="21" to avoid google libraries resource errors.
@@ -48,6 +49,7 @@ or
 **That's it ;)**
 
 ```
-Warning: If Android Mediaplayer don't show the video when you come back locally click on pause and next click on play. 
+Warning:
+If Android Mediaplayer don't show the video when you come back locally click on pause and next click on play. 
 This is necessary only the first time caused by initialization with HTML5 and Android webview, I think.
 ```
