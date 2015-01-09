@@ -1,7 +1,7 @@
 # Cordova-CastHelloVideo-chrome
 Sample "googlecast/CastHelloVideo-chrome" adapted to use with GetVideostream/cordova-chromecast plugin for Cordova/Phonegap
 
-Requeriments:
+## Requeriments:
 
 1) Latest Android SDK
 
@@ -9,7 +9,7 @@ Requeriments:
 
 3) Node.js
 
-Installation:
+## Installation:
 
 1) Go to your workspace and create a new Cordova project with this command:
 
