@@ -1,5 +1,5 @@
 # Cordova-CastHelloVideo-chrome
-Sample "googlecast/CastHelloVideo-chrome" adapted to use with GetVideostream/cordova-chromecast plugin for Cordova/Phonegap
+Sample "googlecast/CastVideos-chrome" adapted to use with GetVideostream/cordova-chromecast plugin for Cordova/Phonegap
 
 ## Requeriments:
 
