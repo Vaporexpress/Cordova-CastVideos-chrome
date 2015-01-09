@@ -13,7 +13,7 @@ Sample [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-c
 
 1) Go to your workspace and create a new Cordova project with this command:
 
-$ cordova create hellocastworld com.example.hellocastworld HelloCastWorld
+'$ cordova create hellocastworld com.example.hellocastworld HelloCastWorld'
 
 2) Enter inside the new folder project:
 
