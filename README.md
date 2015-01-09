@@ -43,5 +43,4 @@ $ cordova run --debug android
 
 That's it ;)
 
-Warning: If Android Mediaplayer don't show the video when you come back locally click on pause and next click on play.
-This is necessary only the first time caused by HTML5 and android webview, I think.
+Warning: If Android Mediaplayer don't show the video when you come back locally click on pause and next click on play. This is necessary only the first time caused by initialization with HTML5 and Android webview, I think.
