@@ -1,4 +1,4 @@
-# Cordova-CastHelloVideo-chrome
+# Cordova-CastVideos-chrome
 Sample [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-chrome) adapted to use with [GetVideostream/cordova-chromecast](https://github.com/GetVideostream/cordova-chromecast) plugin for Cordova/Phonegap with minimal changes.
 
 ## Requeriments:
@@ -11,15 +11,15 @@ Sample [googlecast/CastVideos-chrome](https://github.com/googlecast/CastVideos-c
 
 ## Installation:
 
-1) Go to your workspace and create a new Cordova project with this command:
+**1)** Go to your workspace and create a new Cordova project with this command:
 
 `$ cordova create hellocastworld com.example.hellocastworld HelloCastWorld`
 
-2) Enter inside the new folder project:
+**2)** Enter inside the new folder project:
 
 `$ cd hellocastworld`
 
-3) Add the Android platform
+**3)** Add the Android platform
 
 `$ cordova platform add android`
 
@@ -27,13 +27,13 @@ Note: By default, Android platform is created with "target-19". Now, we need to 
 
 Once modified we can install the cordova chromecast plugin ...
 
-4) Install Cordova Chromecast Plugin:
+**4)** Install Cordova Chromecast Plugin:
 
 `$ cordova plugin add https://github.com/GetVideostream/cordova-chromecast.git`
 
-5) Now download this example and put the files under "[YourProject]\www" folder after cleaning the actual content.
+**5)** Now download this example and put the files under "[YourProject]\www" folder after cleaning the actual content.
 
-6) And finally, build or run the project:
+**6)** And finally, build or run the project:
 
 `$ cordova build --debug android`
 
